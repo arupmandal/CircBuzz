@@ -23,7 +23,7 @@
 
 Credits: @arupmandal - pycricbuzz 
 
-[@cwprojects](https://t.me/iamarupmandal)
+[@iamarupmandal](https://t.me/iamarupmandal)
 
 
 ## Follow on:
